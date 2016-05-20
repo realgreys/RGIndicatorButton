@@ -28,7 +28,7 @@ pod "RGIndicatorButton"
 
 ## Author
 
-10040774, danny.yoon@kt.com
+realgreys
 
 ## License
 
