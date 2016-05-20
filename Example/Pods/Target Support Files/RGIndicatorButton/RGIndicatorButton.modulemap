@@ -1,0 +1,6 @@
+framework module RGIndicatorButton {
+  umbrella header "RGIndicatorButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

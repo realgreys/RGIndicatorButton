@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RGIndicatorButton_Example' do
+  pod 'RGIndicatorButton', :path => '../'
+
+  target 'RGIndicatorButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

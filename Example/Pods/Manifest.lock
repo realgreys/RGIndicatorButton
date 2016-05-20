@@ -1,0 +1,16 @@
+PODS:
+  - RGIndicatorButton (0.1.0)
+
+DEPENDENCIES:
+  - RGIndicatorButton (from `../`)
+
+EXTERNAL SOURCES:
+  RGIndicatorButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RGIndicatorButton: e0ce98d83631191a8bedbf4610c51b550c2f62e8
+
+PODFILE CHECKSUM: 01316c4e42f73da01a57ec5e9f7ae63019ff99dd
+
+COCOAPODS: 1.0.0

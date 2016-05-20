@@ -1,0 +1,19 @@
+{
+  "name": "RGIndicatorButton",
+  "version": "0.1.0",
+  "summary": "A short description of RGIndicatorButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/RGIndicatorButton",
+  "license": "MIT",
+  "authors": {
+    "10040774": "danny.yoon@kt.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/RGIndicatorButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RGIndicatorButton/Classes/**/*"
+}
